@@ -7,6 +7,7 @@ Latihan 3
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Aritmatika.png)
 Latihan 4
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/LuasBalok.png)
+[alat text](perbedaan System.out.print = menampilkan data menyamping dan System.out.println = menanpilkan data menurun)
 Latihan 5
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Inputan.png)
 Latihan 6
@@ -19,6 +20,7 @@ Latihan 9
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Beasiswa.png)
 Latihan 10
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/PerulangIf.png)
+[alt text](menyimpan hasil operasi secara kontinyu jadi hasil = hasil +1 atau ditulis hasil += 1))
 Latihan 11
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Counter.png)
 Pratikum 1
@@ -38,3 +40,4 @@ Latihan 4
 Pratikum nama
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Hasil.png)
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Hasil1.png)
+
