@@ -5,6 +5,9 @@ Latihan 2
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Variabel.png)
 Latihan 3
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Aritmatika.png)
+Tugas Eksplorasi
+[alt text](https://github.com/cahyatri/jabseet/commit/e66ed9dfb041e525c14c2037a9e6333854357af6#commitcomment-30223699)
+[alt text](bil a dan bil b merupakan bilangan desimal sehingga memakai variabel double)
 Latihan 4
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/LuasBalok.png)
 [alat text](perbedaan System.out.print = menampilkan data menyamping dan System.out.println = menanpilkan data menurun)
