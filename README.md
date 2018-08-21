@@ -7,10 +7,10 @@ Latihan 3
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Aritmatika.png)
 Tugas Eksplorasi
 [alt text](https://github.com/cahyatri/jabseet/commit/e66ed9dfb041e525c14c2037a9e6333854357af6#commitcomment-30223699)
-[alt text](bil a dan bil b merupakan bilangan desimal sehingga memakai variabel double)
+(bil a dan bil b merupakan bilangan desimal sehingga memakai variabel double)
 Latihan 4
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/LuasBalok.png)
-[alat text](perbedaan System.out.print = menampilkan data menyamping dan System.out.println = menanpilkan data menurun)
+(perbedaan System.out.print = menampilkan data menyamping dan System.out.println = menanpilkan data menurun)
 Latihan 5
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Inputan.png)
 Latihan 6
@@ -23,7 +23,7 @@ Latihan 9
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Beasiswa.png)
 Latihan 10
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/PerulangIf.png)
-[alt text](menyimpan hasil operasi secara kontinyu jadi hasil = hasil +1 atau ditulis hasil += 1))
+(menyimpan hasil operasi secara kontinyu jadi hasil = hasil +1 atau ditulis hasil += 1))
 Latihan 11
 [alt text](https://github.com/cahyatri/jabseet/blob/master/Project/Counter.png)
 Pratikum 1
